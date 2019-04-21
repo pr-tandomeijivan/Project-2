@@ -17,7 +17,7 @@ def dtw(x, y, dist, warp=1, w=inf, s=1.0):
     """
     assert len(x)
     assert len(y)
-    assert isinf(w) or (w >= abs(len(x) - len(y)))
+    assert isinf(w) or (w >= abs(len(x) - len(y))) #w is infinity 
     assert s > 0
     r, c = len(x), len(y)
     if not isinf(w):
