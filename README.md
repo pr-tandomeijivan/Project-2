@@ -10,3 +10,4 @@
 ##### Install conda environment from the project root: conda env create -f environment.yml
 ##### Open the jupyter notebook and execute the code blocks step-by-step. 
 ##### There may be a need to manually install CV2 to make code blocks work. 
+##### DTW library : https://github.com/pierre-rouanet/dtw
