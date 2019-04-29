@@ -8,5 +8,5 @@
 
 #### How to launch
 ##### Install conda environment from the project root: conda env create -f environment.yml
-##### Open the jypiter notebook and execute the code blocks step-by-step. 
+##### Open the jupyter notebook and execute the code blocks step-by-step. 
 ##### Sometimes there is a need to manually install CV2 to make code blocks work. 
